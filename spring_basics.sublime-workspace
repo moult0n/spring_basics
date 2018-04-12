@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arr",
+				"arrayMinBronze"
+			],
+			[
+				"arayMa",
+				"arrayMaxBronze"
+			],
+			[
+				"arrayMi",
+				"arrayMinBronze"
+			],
+			[
+				"arrayWins",
+				"arrayWinsSilver"
+			],
+			[
+				"array",
+				"arrayWinsBronze"
+			],
+			[
+				"std",
+				"stdGold"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"min",
+				"minBronze"
+			],
+			[
+				"max",
+				"maxGold"
+			],
+			[
+				"Si",
+				"silvers"
+			],
+			[
+				"sum",
+				"sumBronzes"
+			],
+			[
+				"bonze",
+				"Bronzes"
+			],
+			[
+				"aver",
+				"averageDustPerRun"
+			],
+			[
+				"av",
+				"averageOrePerRun"
+			],
+			[
+				"sumdu",
+				"sumDust"
+			],
+			[
+				"sumG",
+				"sumGames"
+			],
+			[
+				"sumOr",
+				"sumOre"
+			],
+			[
+				"sumD",
+				"sumDust"
+			],
+			[
+				"sumO",
+				"sumOre"
+			],
+			[
+				"sumOre",
+				"sumOreArray"
+			],
+			[
+				"wins",
+				"winsOreArray"
+			],
+			[
+				"sumS",
+				"sumScrapArray"
+			],
+			[
+				"index",
+				"indexDust"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"ma",
+				"maxBronze"
+			],
+			[
+				"win",
+				"winsArray"
+			],
+			[
+				"sumg",
+				"sumGames"
+			],
+			[
+				"sumL",
+				"sumLosses"
+			],
+			[
+				"sumGo",
+				"sumGoldPPick"
+			],
+			[
+				"br",
+				"bronzeRareTotal"
+			],
+			[
+				"sumSil",
+				"sumSilverPPick"
+			],
+			[
+				"sumBronze",
+				"sumBronzeCommonP"
+			],
+			[
+				"g",
+				"goldTotal"
+			],
+			[
+				"bo",
+				"bronzeCommonTotal"
+			],
+			[
+				"total",
+				"totalCards"
+			],
+			[
+				"sumGol",
+				"sumGoldPick"
+			],
+			[
+				"sumBro",
+				"sumBronzeRarePPick"
+			],
+			[
+				"sumBronzeR",
+				"sumBronzeRarePick"
+			],
+			[
+				"sumgo",
+				"sumGoldP"
+			],
+			[
+				"sumBr",
+				"sumBronzeCommonP"
+			],
+			[
+				"sumB",
+				"sumBronzeCommon"
+			],
+			[
+				"num",
+				"numKegs"
+			],
+			[
+				"sumBron",
+				"sumBronzeRareP"
+			],
+			[
+				"Ab",
+				"abandon"
+			],
+			[
+				"a",
+				"abandonRuns"
+			],
+			[
+				"ab",
+				"abandonRuns"
+			],
+			[
+				"gold",
+				"gold_premium"
+			],
+			[
+				"sil",
+				"silver_premium"
+			],
+			[
+				"bronz",
+				"bronze_rare_premium"
+			],
+			[
+				"bronze_",
+				"bronze_rare"
+			],
+			[
+				"bronze_comm",
+				"bronze_common_premium"
+			],
+			[
+				"gol",
+				"goldNonPickRate"
+			],
+			[
+				"si",
+				"silverNonPickRate"
+			],
+			[
+				"b",
+				"bronzeNonPickRate"
+			],
+			[
+				"s",
+				"silverPickRate"
+			],
+			[
+				"ch",
+				"choiceGoldSum"
+			],
+			[
+				"c",
+				"choiceSilverSum"
+			],
+			[
+				"coi",
+				"choiceBronzeSum"
+			],
+			[
+				"dust",
+				"dustPerRunDroprate"
+			],
+			[
+				"sumWi",
+				"sumWins"
+			],
+			[
+				"ore",
+				"oreCost2"
+			],
+			[
+				"sumW",
+				"sumWins"
+			],
+			[
+				"sumDu",
+				"sumDust"
+			],
+			[
+				"int",
+				"intRow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gs-maven/complete/src/main/java/hello/HelloWorld.java",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"ll"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/moulton/Documents/spring_basics/spring_basics",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main/java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main/java/hello",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test/java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test/java/hello"
+	],
+	"file_history":
+	[
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/pom.xml",
+		"/home/moulton/Documents/angular_project/angular-tour-of-heroes/src/app/app.module.ts",
+		"/home/moulton/Documents/angular_project/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/app/View/Layouts/default.ctp",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/app/View/Pages/rankings.ctp",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/app/View/Layouts/xml/default.ctp",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/public_html/home.html",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/lib/Cake/Model/ModelValidator.php",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/build.xml",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/TODO",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/README.md",
+		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/build.properties"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gs-maven/complete/src/main/java/hello/HelloWorld.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "spring_basics.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
