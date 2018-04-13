@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"custo",
+				"CustomerService"
+			],
+			[
+				"xml",
+				"xmlns"
+			],
+			[
+				"A",
+				"ApplicationContext"
+			],
+			[
+				"C",
+				"CustomerServiceImpl"
+			],
+			[
+				"pl",
+				"pluralsight"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"custome",
+				"customers"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"fi",
+				"firstname"
+			],
+			[
 				"arr",
 				"arrayMinBronze"
 			],
@@ -264,10 +300,20 @@
 	"buffers":
 	[
 		{
-			"file": "gs-maven/complete/src/main/java/hello/HelloWorld.java",
+			"file": "spring_sample_xml_anno/src/main/java/com/pluralsight/repository/HibernateCustomerRepositoryImpl.java",
 			"settings":
 			{
-				"buffer_size": 309,
+				"buffer_size": 544,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spring_sample_xml_anno/src/main/java/com/pluralsight/service/CustomerServiceImpl.java",
+			"settings":
+			{
+				"buffer_size": 572,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -306,19 +352,35 @@
 	"expanded_folders":
 	[
 		"/home/moulton/Documents/spring_basics/spring_basics",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main/java",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main/java/hello",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test/java",
-		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/test/java/hello"
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/src",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/src/main",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/src/main/resources"
 	],
 	"file_history":
 	[
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/src/main/java/resources/applicationContext.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/pom.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml/pom.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/spring_sample_xml_anno/src/main/java/Application.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/src/main/resources/applicationContext.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/src/main/java/com/pluralsight/repository/HibernateCustomerRepositoryImpl.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/src/main/java/Application.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/target/classes/applicationContext.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/pom.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/spring_sample_xml/src/main/java/com/pluralsight/service/CustomerServiceImpl.java",
 		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/pom.xml",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/Application.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com/pluralsight/repository/HibernateCustomerRepositoryImpl.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com/pluralsight/repository/CustomerRepository.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com/pluralsight/service/CustomerServiceImpl.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com/pluralsight/service/CustomerService.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com.pluralsight.model/Customer.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com.pluralsight.service/CustomerServiceImpl.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com.pluralsight.service/CustomerService.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com.pluralsight.repository/HibernateCustomerRepositoryImpl.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/initial/src/main/java/com.pluralsight.model/CustomerRepository.java",
+		"/home/moulton/Documents/spring_basics/spring_basics/gs-maven/complete/src/main/java/hello/HelloWorld.java",
 		"/home/moulton/Documents/angular_project/angular-tour-of-heroes/src/app/app.module.ts",
 		"/home/moulton/Documents/angular_project/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css",
 		"/home/moulton/Documents/aikiacupuncture/backup-3.21.2018_08-38-38_billlehr/homedir/www/app/View/Layouts/default.ctp",
@@ -337,7 +399,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 98.0,
 		"where_history":
 		[
 		]
@@ -347,6 +409,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"string"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -364,24 +427,52 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gs-maven/complete/src/main/java/hello/HelloWorld.java",
+					"file": "spring_sample_xml_anno/src/main/java/com/pluralsight/repository/HibernateCustomerRepositoryImpl.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 309,
+						"buffer_size": 544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spring_sample_xml_anno/src/main/java/com/pluralsight/service/CustomerServiceImpl.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
 							]
 						],
 						"settings":
@@ -404,7 +495,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -475,7 +566,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 291.0,
+	"side_bar_width": 311.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
