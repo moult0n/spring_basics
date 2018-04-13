@@ -7,8 +7,10 @@ import com.pluralsight.model.Customer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.context.annotation.Scope;
 
 @Service("customerService")
+@Scope("singleton")
 public class CustomerServiceImpl implements CustomerService{
 
 	
